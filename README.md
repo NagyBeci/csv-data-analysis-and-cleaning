@@ -24,9 +24,22 @@ This project provides a comprehensive **Data Analysis and Cleaning** tool built 
 
 ---
 
-## Installation ⚙️
+## How to Use 🚀
 
-To run this tool, make sure you have the following dependencies installed:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/NagyBeci/xml-data-analysis-and-cleaning.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd xml-data-analysis-and-cleaning
+   ```
 
-```bash
-pip install pandas matplotlib seaborn scipy pdfkit tkinter
+3. Run the tool:
+   ```bash
+   python data_analysis_cleaning_tool.py
+   ```
+
+4. Use the interface to upload your CSV file, clean the data, and generate visualizations and reports.
+
